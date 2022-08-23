@@ -16,5 +16,20 @@ public class Classnew {
 			System.out.println("3");
 
 		}
+		
+		private void mathod4() {
+			  System.out.println("4");
+
+			}
+			
+			private void mathod5() {
+				System.out.println("5");
+
+			}
+			
+			private void mathod6() {
+				System.out.println("6");
+
+			}
 
 }
